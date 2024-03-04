@@ -7,5 +7,13 @@
   <p>HTML</p>
   <p>CSS</p>
 </p>
+<p><a href="#"><strong>Museum of Candy</strong></a>
+  <p>HTML</p>
+  <p>CSS</p>
+</p>
+<p><a href="#"><strong>Guessing Number Game</strong></a>
+  <p>Javascript</p>
+</p>
+
 
 </div>
