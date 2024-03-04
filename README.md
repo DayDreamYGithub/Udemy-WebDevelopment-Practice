@@ -7,7 +7,7 @@
   <p>HTML</p>
   <p>CSS</p>
 </p>
-<p><a href="https://github.com/DayDreamYGithub/Udemy-WebDevelopment-Practice/tree/main/PriceTable"><strong>PriceTable</strong></a>
+<p><a href="https://github.com/DayDreamYGithub/Udemy-WebDevelopment-Practice/tree/main/PriceTable"><strong>Price Table</strong></a>
   <p>HTML</p>
   <p>CSS</p>
 </p>
