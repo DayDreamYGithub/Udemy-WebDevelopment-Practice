@@ -1,4 +1,4 @@
-Project Link : <a href="https://daydreamygithubhost.github.io/PriceTablePractice/">Price Table Practice Project</a>
+Project Page Link : <a href="https://daydreamygithubhost.github.io/PriceTablePractice/">Price Table Practice Project</a>
 <hr>
 HTML<br>
 CSS<br>
