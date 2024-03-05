@@ -19,10 +19,6 @@
 <p><a href="https://github.com/DayDreamYGithub/Udemy-WebDevelopment-Practice/tree/main/GuessingGame"><strong>Guessing Number Game</strong></a>🌟</p>
   <p>Javascript</p>
   <hr>
-<p><a href="#"><strong>Todo List Project(developing)</strong></a>🌟</p>
-  <p>HTML</p>
-  <p>Javascript</p>
-  <hr>
 <p><a href="#"><strong>Pokemon Sprites Sheet(developing)</strong></a>🌟</p>
   <p>HTML</p>
   <p>Javascript</p>
