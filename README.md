@@ -26,6 +26,7 @@
   <hr>
 <p><a href="#"><strong>Score Keeper(developing)</strong></a>🌟</p>
   <p>HTML</p>
+  <p>CSS</p>
   <p>Javascript</p>
   <hr>
 <p><a href="#"><strong>TV Show Search App(developing)</strong></a>🌟🌟</p>
