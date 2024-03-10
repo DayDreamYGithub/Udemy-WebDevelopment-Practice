@@ -29,7 +29,7 @@
   <p>CSS</p>
   <p>Javascript</p>
   <hr>
-<p><a href="#"><strong>TV Show Search App(developing)</strong></a>🌟</p>
+<p><a href="https://github.com/DayDreamYGithub/Udemy-WebDevelopment-Practice/tree/main/TVShowSearchSimpleAPP"><strong>TV Show Search App</strong></a>🌟</p>
   <p>HTML</p>
   <p>Javascript</p>
   <p>API</p>
