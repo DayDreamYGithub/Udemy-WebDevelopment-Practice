@@ -12,7 +12,7 @@
   <p>HTML</p>
   <p>CSS</p>
   <hr>
-<p><a href="#"><strong>Museum of Candy(developing)</strong></a>🌟🌟</p>
+<p><a href="#"><strong>Museum of Candy</strong></a>🌟🌟</p>
   <p>HTML</p>
   <p>CSS</p>
   <p>Bootstrap</p>
