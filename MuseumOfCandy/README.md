@@ -11,7 +11,7 @@ Bootstrap<br>
 <hr>
 This project is a simple website for a Candy Museum.
 <hr>
-<img src="https://github.com/DayDreamYGithub/Udemy_WebDevelopment_Practice/blob/main/PriceTable/gitimg/pc.jpg?raw=true" alt="PC">
+<img src="https://github.com/DayDreamYGithub/Udemy-WebDevelopment-Practice/blob/main/MuseumOfCandy/gitimg/1.jpg?raw=true" alt="PC">
 <hr>
-<img src="https://github.com/DayDreamYGithub/Udemy_WebDevelopment_Practice/blob/main/PriceTable/gitimg/pc.jpg?raw=true" alt="PC">
+<img src="https://github.com/DayDreamYGithub/Udemy-WebDevelopment-Practice/blob/main/MuseumOfCandy/gitimg/2.jpg?raw=true" alt="PC">
 </div>
