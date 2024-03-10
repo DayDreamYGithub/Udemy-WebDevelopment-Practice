@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Project Page Link : <a href="https://daydreamygithubhost.github.io/TVShowSearchSimpleAPP/">Score Keeper</a>
+Project Page Link : <a href="https://daydreamygithubhost.github.io/TVShowSearchSimpleAPP/">TV Show Search Simple APP</a>
 <hr>
 HTML<br>
 Javascript<br>
