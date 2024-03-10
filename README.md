@@ -12,7 +12,7 @@
   <p>HTML</p>
   <p>CSS</p>
   <hr>
-<p><a href="#"><strong>Museum of Candy</strong></a>🌟🌟</p>
+<p><a href="https://github.com/DayDreamYGithub/Udemy-WebDevelopment-Practice/tree/main/MuseumOfCandy"><strong>Museum of Candy</strong></a>🌟🌟</p>
   <p>HTML</p>
   <p>CSS</p>
   <p>Bootstrap</p>
@@ -24,7 +24,7 @@
   <p>CSS</p>
   <p>Javascript</p>
   <hr>
-<p><a href="#"><strong>Score Keeper</strong></a>🌟</p>
+<p><a href="https://github.com/DayDreamYGithub/Udemy-WebDevelopment-Practice/tree/main/ScoreKeeper"><strong>Score Keeper</strong></a>🌟</p>
   <p>HTML</p>
   <p>CSS</p>
   <p>Javascript</p>
